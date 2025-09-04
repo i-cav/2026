@@ -2,7 +2,7 @@
 layout: page
 title: CAV 2026
 subtitle: 38th International Conference on Computer Aided Verification
-cover-img: "/assets/img/lisbon_tram.jpg"
+cover-img: "/assets/img/lisbon_tower.jpg"
 ---
 July 26-29 2026 in Lisbon, Portugal, as part of [FLoC 2026](https://www.floc26.org/)
 
