@@ -6,14 +6,14 @@ title: Call for Papers
 #### IMPORTANT DATES
 All deadlines are AoE (Anywhere on Earth)
 
-#### Paper submission
+#### PAPER SUBMISSION
 
 * Full papers due: January 28, 2026<br/>
 * Author Response Period: March 30 - April 1, 2026<br/>
 * Author Notification: April 17, 2026<br/>
 * Main Conference: July 26-29, 2026<br/>
  
-#### Submission Site
+#### SUBMISSION SITE
 
 <https://submissions.floc26.org/cav/>
 
@@ -46,7 +46,7 @@ CAV welcomes submissions on theory, algorithms, practice and/or tools.
 Submissions on a wide range of topics are sought, particularly ones that identify new research directions. CAV 2026 is not limited to topics discussed in previous instances of the conference. Authors concerned about the appropriateness of a topic may communicate with the conference chairs prior to submission.
 
 
-### CAV AWARD
+#### CAV AWARD
 
 The CAV award is given annually at the CAV conference for fundamental contributions to the field of Computer-Aided Verification.
 
@@ -75,7 +75,7 @@ Papers in all four categories must be submitted by January 28, 2026 AoE, and sho
 
 Owing to the increasing number of submissions, CAV has decided to implement a two-stage reviewing process. In the first stage, each paper will get two reviews. Papers with sufficient support by the reviewers will proceed to the next stage, where they will receive two additional reviews; other papers will be rejected early. The tentative notification date for early rejected papers is around March 4, 2026. Authors whose papers have passed the first stage will have the option to respond to reviewer comments in a rebuttal phase.
 
-Authors of accepted papers will be invited (but are not required) to submit a relevant artifact for evaluation by the artifact evaluation committee. Authors are encouraged to consult SIGPLAN’s Empirical Evaluation Guidelines when reporting on empirical results. Final acceptance (of papers in any category) is not conditional on successful artifact evaluation (new this year).
+Authors of accepted papers will be invited (but are not required) to submit a relevant artifact for evaluation by the artifact evaluation committee. Authors are encouraged to consult SIGPLAN’s Empirical Evaluation Guidelines when reporting on empirical results. *<u>Final acceptance (of papers in any category) is not conditional on successful artifact evaluation (new this year).</u>*
 
 
 #### REGULAR PAPERS
@@ -88,7 +88,7 @@ We do not discourage authors to put their submission on arXiv, but we strongly e
 
 #### SHORT TOOL PAPERS
 
-**Please note that the criteria for short tool papers have been changed this year.**
+*<u>Please note that the criteria for short tool papers have been changed this year.</u>*
 
 Short tool papers should describe a tool, or a new version of a tool, that is of wide interest and usefulness to the CAV community. Short tool papers do not have to include novel research. The expectation is that the correctness and utility of the presented tool is backed up by citation(s) to refereed original work. Reports of significant impact or applications of tools since their original publication are strongly encouraged. Reports about tools in an industrial setting are strongly encouraged. Very early stage work that has not yet been validated is not suitable for this paper category.
 
@@ -98,7 +98,7 @@ Short tool papers will follow a single blind review process. They do NOT need to
 
 #### SHORT APPLICATION PAPERS
 
-**This category is new this year and targets academic work, as opposed to industrial experience reports.**
+*<u>This category is new this year and targets academic work, as opposed to industrial experience reports.</u>*
 
 Short application papers should describe a practical application of an algorithm, an application of a previously published theoretical result, or an extension of an existing theoretical result that is of wide interest and usefulness to the CAV community. Reports of significant impact or applications of algorithms or theorems since their original publication are strongly encouraged. Very early stage work is not suitable for this paper category.
 
@@ -118,6 +118,6 @@ Industrial Experience Reports and Case Studies will follow a single blind review
 
 For any questions please contact the PC chairs:
 
-Anthony W. Lin (lin@cs.uni-kl.de)<br/>
-Eva Darulova (eva.darulova@it.uu.se)<br/>
-Philipp Rümmer (philipp.ruemmer@ur.de)
+[Anthony W. Lin](https://anthonywlin.github.io) (lin@cs.uni-kl.de)<br/>
+[Eva Darulova](https://malyzajko.github.io) (eva.darulova@it.uu.se)<br/>
+[Philipp Rümmer](http://www.philipp.ruemmer.org) (philipp.ruemmer@ur.de)

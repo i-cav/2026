@@ -22,7 +22,7 @@ title: Organization
 [Yu-Fang Chen](https://guluchen.github.io/), Academia Sinica Taiwan
 
 #### WEBSITE CHAIR
-[Neea Rusch](https://nkrusch.github.io/)
+[Neea Rusch](https://nkrusch.github.io/), Uppsala University
 
 #### PROGRAM COMMITTEE
 
