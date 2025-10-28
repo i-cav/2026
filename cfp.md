@@ -3,18 +3,21 @@ layout: page
 title: Call for Papers
 ---
 
-### IMPORTANT DATES
+#### IMPORTANT DATES
 All deadlines are AoE (Anywhere on Earth)
 
-Paper submission:<br/>
-Full papers due: January 28, 2026<br/>
-Author Response Period: March 30 - April 1, 2026<br/>
-Author Notification: April 17, 2026<br/>
-Main Conference: July 26-29, 2026<br/>
-Submission Site: <https://submissions.floc26.org/cav/>
+#### Paper submission
 
+* Full papers due: January 28, 2026<br/>
+* Author Response Period: March 30 - April 1, 2026<br/>
+* Author Notification: April 17, 2026<br/>
+* Main Conference: July 26-29, 2026<br/>
+ 
+#### Submission Site
 
-### SCOPE
+<https://submissions.floc26.org/cav/>
+
+#### SCOPE
 
 CAV 2026 is the 38th in a series dedicated to the advancement of the theory and practice of computer-aided formal analysis methods for hardware and software systems. The conference covers the spectrum from theoretical results to concrete applications, with an emphasis on practical verification tools and the algorithms and techniques that are needed for their implementation. CAV considers it vital to continue spurring advances in hardware and software verification while expanding to new domains such as machine learning, quantum verification, autonomous systems, and computer security. The proceedings of the conference will be published in the Springer-Verlag Lecture Notes in Computer Science series. A selection of papers is expected to be invited to a special issue of Formal Methods in System Design and the Journal of the ACM.
 
@@ -56,7 +59,7 @@ Nominations should be submitted by e-mail to a member of the committee. For deta
 <https://conferences.i-cav.org/2026/award/>.
 
 
-### PAPER SUBMISSION
+#### PAPER SUBMISSION
 
 Paper submissions in CAV fall into one of the following four categories (see more information below):
 - Regular Papers (18 pages max, must be anonymized)
@@ -68,14 +71,14 @@ Papers can include a clearly marked appendix, however, the reviewers are not obl
 
 Papers in all four categories must be submitted by January 28, 2026 AoE, and should be in LNCS format. Simultaneous submission to other conferences with proceedings or submission of material that has already been published elsewhere is not allowed.
 
-TWO-STAGE-REVIEW-PROCESS (NEW):
+#### TWO-STAGE-REVIEW-PROCESS (NEW)
 
 Owing to the increasing number of submissions, CAV has decided to implement a two-stage reviewing process. In the first stage, each paper will get two reviews. Papers with sufficient support by the reviewers will proceed to the next stage, where they will receive two additional reviews; other papers will be rejected early. The tentative notification date for early rejected papers is around March 4, 2026. Authors whose papers have passed the first stage will have the option to respond to reviewer comments in a rebuttal phase.
 
 Authors of accepted papers will be invited (but are not required) to submit a relevant artifact for evaluation by the artifact evaluation committee. Authors are encouraged to consult SIGPLAN’s Empirical Evaluation Guidelines when reporting on empirical results. Final acceptance (of papers in any category) is not conditional on successful artifact evaluation (new this year).
 
 
-REGULAR PAPERS
+#### REGULAR PAPERS
 
 Regular papers should contain original research and sufficient detail to assess the merits and relevance of the contribution. Papers will be evaluated on the basis of a combination of correctness, technical depth, significance, novelty, clarity, and elegance.
 
@@ -83,7 +86,7 @@ Regular papers follow the double blind review process, which means that author n
 
 We do not discourage authors to put their submission on arXiv, but we strongly encourage authors to not put the work on arXiv around (within 1 week) or shortly after (within 1 month) the submission deadline, because potential reviewers may be subscribed to receive updates on recently posted papers.
 
-SHORT TOOL PAPERS
+#### SHORT TOOL PAPERS
 
 **Please note that the criteria for short tool papers have been changed this year.**
 
@@ -93,7 +96,7 @@ A short tool paper should clearly describe the importance of the tool and the pr
 
 Short tool papers will follow a single blind review process. They do NOT need to be anonymized.
 
-SHORT APPLICATION PAPERS
+#### SHORT APPLICATION PAPERS
 
 **This category is new this year and targets academic work, as opposed to industrial experience reports.**
 
@@ -105,13 +108,13 @@ Short application papers follow the double blind review process, which means tha
 
 We do not discourage authors to put their submission on arXiv, but we strongly encourage authors to not put the work on arXiv around (within 1 week) or shortly after (within 1 month) the submission deadline, because potential reviewers may be subscribed to receive updates on recently posted papers.
 
-INDUSTRIAL EXPERIENCE REPORTS AND CASE STUDIES
+#### INDUSTRIAL EXPERIENCE REPORTS AND CASE STUDIES
 
 These papers are expected to describe the use of formal methods techniques in industrial settings or in new application domains. Papers in this category do not necessarily need to present original research results but are expected to contain novel applications of formal methods techniques as well as an evaluation of these techniques in the chosen application domain. Such papers are encouraged to discuss the unique challenges of transferring research ideas to a real-world setting and reflect on any lessons learned from this technology transfer experience.
 
 Industrial Experience Reports and Case Studies will follow a single blind review process.  They do NOT need to be anonymized.
 
-### CONTACT
+#### CONTACT
 
 For any questions please contact the PC chairs:
 
