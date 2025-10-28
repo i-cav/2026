@@ -53,7 +53,7 @@ Nominations should include a proposed citation (up to 25 words), a succinct (100
 For previous winners of the award, please see the [main CAV award page](https://i-cav.org/cav-award/).
 
 Nominations should be submitted by e-mail to a member of the committee. For details, please see 
-[https://conferences.i-cav.org/2026/award/](/award).
+<https://conferences.i-cav.org/2026/award/>.
 
 
 ### PAPER SUBMISSION
