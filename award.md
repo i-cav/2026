@@ -19,4 +19,4 @@ Nomination Deadline: March 2, 2026
 [Ranjit Jhala](https://ranjitjhala.github.io/), University of California, San Diego (Chair)<br/>
 [Işıl Dillig](https://www.cs.utexas.edu/~isil/), University of Texas, Austin<br/>
 [Alessandro Cimatti](https://dicenter.fbk.eu/contacts/alessandro-cimatti/), Fondazione Bruno Kessler<br/>
-(TBD)
+[Bernd Finkbeiner](https://finkbeiner.groups.cispa.de/people/finkbeiner.html), CISPA Helmholtz Center for Information Security and Saarland University 
