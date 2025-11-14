@@ -75,7 +75,10 @@ Papers in all four categories must be submitted by January 28, 2026 AoE, and sho
 
 Owing to the increasing number of submissions, CAV has decided to implement a two-stage reviewing process. In the first stage, each paper will get two reviews. Papers with sufficient support by the reviewers will proceed to the next stage, where they will receive two additional reviews; other papers will be rejected early. The tentative notification date for early rejected papers is around March 4, 2026. Authors whose papers have passed the first stage will have the option to respond to reviewer comments in a rebuttal phase.
 
-Authors of accepted papers will be invited (but are not required) to submit a relevant artifact for evaluation by the artifact evaluation committee. Authors are encouraged to consult SIGPLAN’s Empirical Evaluation Guidelines when reporting on empirical results. *<u>Final acceptance (of papers in any category) is not conditional on successful artifact evaluation (new this year).</u>*
+#### ARTIFACTS
+Authors of accepted papers will be invited (but are not required) to submit a relevant artifact for evaluation by the artifact evaluation committee. Authors are encouraged to consult SIGPLAN’s Empirical Evaluation Guidelines when reporting on empirical results. 
+
+*<u>New this year:</u>* Final acceptance (of papers in any category) is not conditional on successful artifact evaluation. Authors should indicate, however, at paper submission time whether they plan to submit an artifact for evaluation if their paper is accepted. Information on artifact intent will be shared with reviewers. If authors indicate their intent to submit an artifact but fail to do so after conditional acceptance, they will be asked to provide an explanation.
 
 
 #### REGULAR PAPERS
