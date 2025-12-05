@@ -69,11 +69,11 @@ Paper submissions in CAV fall into one of the following four categories (see mor
 
 Papers can include a clearly marked appendix, however, the reviewers are not obliged to read the contents of these appendices. All page limits do not include references and appendices.
 
-Papers in all four categories must be submitted by January 28, 2026 AoE, and should be in LNCS format. Simultaneous submission to other conferences with proceedings or submission of material that has already been published elsewhere is not allowed.
+Papers in all four categories must be submitted by January 28, 2026 AoE, and should be in LNCS format. Note [Springer's guidelines regarding AI Authorship]([https://anthonywlin.github.io](https://www.springer.com/gp/editorial-policies/artificial-intelligence--ai-/25428500)). Simultaneous submission to other conferences with proceedings or submission of material that has already been published elsewhere is not allowed.
 
 #### TWO-STAGE-REVIEW-PROCESS (NEW)
 
-Owing to the increasing number of submissions, CAV has decided to implement a two-stage reviewing process. In the first stage, each paper will get two reviews. Papers with sufficient support by the reviewers will proceed to the next stage, where they will receive two additional reviews; other papers will be rejected early. The tentative notification date for early rejected papers is around March 4, 2026. Authors whose papers have passed the first stage will have the option to respond to reviewer comments in a rebuttal phase.
+Owing to the increasing number of submissions, CAV has decided to implement a two-stage reviewing process. In the first stage, each paper will get two reviews. Papers with sufficient support by the reviewers will proceed to the next stage, where they will receive two additional reviews; other papers will be rejected early. The tentative notification date for the outcome of the first round is around March 4, 2026. Authors whose papers have passed the first stage will have the option to respond to reviewer comments in a rebuttal phase.
 
 #### ARTIFACTS
 Authors of accepted papers will be invited (but are not required) to submit a relevant artifact for evaluation by the artifact evaluation committee. Authors are encouraged to consult SIGPLAN’s Empirical Evaluation Guidelines when reporting on empirical results. 
@@ -83,7 +83,7 @@ Authors of accepted papers will be invited (but are not required) to submit a re
 
 #### REGULAR PAPERS
 
-Regular papers should contain original research and sufficient detail to assess the merits and relevance of the contribution. Papers will be evaluated on the basis of a combination of correctness, technical depth, significance, novelty, clarity, and elegance.
+Regular papers should contain original research and sufficient detail to assess the merits and relevance of the contribution. Papers will be evaluated on the basis of a combination of correctness, technical depth, significance, novelty, clarity, and transparency.
 
 Regular papers follow the double blind review process, which means that author names and affiliations must be omitted from the submission. Additionally, if a submission refers to prior work done by the authors, the reference should be made in the third person. These are firm submission requirements, and any submission that does not conform to these requirements will be rejected without review.
 
