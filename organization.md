@@ -71,7 +71,6 @@ Dung Tran, University of Florida<br/>
 Hongfei Fu, Shanghai Jiao Tong University<br/>
 [Hossein Hojjat](https://teias.institute/~hojjat/), Tehran Institute for Advanced Studies<br/>
 [Ichiro Hasuo](https://group-mmm.org/~ichiro/), National Institute of Informatics<br/>
-[Ilya Sergey](https://ilyasergey.net/), National University of Singapore<br/>
 [Jan Křetínský](https://live-lab.fi.muni.cz/jan.html), Masaryk University; TU Munich<br/>
 [Javier Esparza](https://www7.in.tum.de/~esparza/), Technical University of Munich<br/>
 [Ji Guan](http://www.veri-q.com/JiGuan//), Institute of Software, Chinese Academy of Sciences<br/>
