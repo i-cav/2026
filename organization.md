@@ -80,7 +80,7 @@ Jingbo Wang, Purdue University<br/>
 [Jorge Navas](https://jorgenavas.github.io/), Certora<br/>
 [Julian Parsert](https://www.parsert.com/), RPTU Kaiserslautern<br/>
 [Juneyoung Lee](https://aqjune.github.io), Amazon Web Services<br/>
-Kenenth McMillan, UT Austin<br/>
+Kenneth McMillan, UT Austin<br/>
 [Krishna Shankaranarayanan](https://www.cse.iitb.ac.in/~krishnas), IIT Bombay<br/>
 [Loris D'Antoni](https://cseweb.ucsd.edu/~ldantoni/), University of California-San Diego<br/>
 [Lukas Holik](https://www.vut.cz/en/people/lukas-holik-103996), Aalborg University, Brno University of Technology<br/>
