@@ -38,7 +38,7 @@ In the **smoke test** phase, reviewers will download artifacts, read the artifac
 
 In the **full review** phase, reviewers will evaluate artifacts according to the [evaluation criteria](#evaluation-criteria) with respect to the claims in the papers and decide on the badge(s) awarded to each submission. At this stage, there may be a continuous discussion between the authors and the reviewers if necessary.
 
-Unless the artifact is provided publicly (e.g., on Zenodo, figshare, Dryad), it is considered *confidential* to the CAV 2026 Artifact Evaluation. Reviewers are asked to use the artifact only as permitted by its license.
+Unless the artifact is provided publicly (e.g., on Zenodo, figshare, Dryad), it is considered *confidential* to the CAV 2026 Artifact Evaluation. Reviewers are asked to use the artifact only as permitted by its license (this should affect you only if you are very strict about what can be done with your artifact; in that case, please make sure the license allows the reviewers to evaluate the artifact).
 
 # Submission Guidelines
 
@@ -136,12 +136,12 @@ To be **Available**, an artifact needs satisfy the following requirements:
 
 To be **Functional**, the *documented*, *consistent*, *complete*, and *exercisable* criteria from [ACM artifact criteria](https://www.acm.org/publications/policies/artifact-review-and-badging-current) should be met with the following clarification:
 
-* **Completeness**: in some cases, having an artifact reproducing all results in a paper is challenged by the need to use, e.g., proprietary software whose license does not allow it to be distributed with the artifact (e.g. MATLAB, Microsoft Office, Wolfram Mathematica, or commercial verification tools), non-standard hardware (e.g., FPGAs, GPUs, neuromorphic processors, quantum computers), external services (e.g., LLMs, running computation in the cloud, libraries accessing certain URLs), or use cases that cannot be shared with the public (e.g., they are a trade secret or are subject to responsible disclosure at the time of submitting the artifact).  In these cases, special care needs to be taken when preparing the artifact.  Possible directions are, for example,
-  * substituting a proprietary software for a free equivalent (e.g., MATLAB for GNU Octave, Microsoft Office for LibreOffice or Python notebooks), with an option to switch to a non-free software (e.g., an evaluator could set his/her license key) if the free equivalent is, e.g., slower,
+* **Completeness**: in some cases, having an artifact that reproduces all results in a paper is challenged by the need to use, e.g., proprietary software whose license does not allow it to be distributed with the artifact (e.g. MATLAB, Microsoft Office, Wolfram Mathematica, or commercial verification tools), non-standard hardware (e.g., FPGAs, GPUs, neuromorphic processors, quantum computers), external services (e.g., LLMs, running computation in the cloud, libraries accessing certain URLs), or use cases that cannot be shared with the public (e.g., they are a trade secret or are subject to responsible disclosure at the time of submitting the artifact).  In these cases, special care needs to be taken when preparing the artifact.  Possible directions are, for example,
+  * substituting a proprietary software for a free equivalent (e.g., MATLAB for GNU Octave, Microsoft Office for LibreOffice or Python notebooks), with an option to switch to a non-free software (e.g., evaluators could set their license key) if the free equivalent is, e.g., slower,
   * using proxies for external services (e.g., a cache of replies for prompts to LLMs), or
   * omitting inclusion of problematic use cases in the artifact.
   
-  Note, however, that despite the best intentions on both sides, the effect of the changes may be too large and the results obtained during the artifact evaluation may, in turn, not be consistent with the trends in the paper any more, in which case the **Functional** badge cannot be awarded.  Please contact the AE chairs if you have questions.
+  Note, however, that despite the best intentions on both sides, the effect of the changes may be too large and the results obtained during the artifact evaluation may, in turn, not be consistent with the trends in the paper anymore, in which case the **Functional** badge cannot be awarded.  Please contact the AE chairs if you have questions.
 
 ## Reusable badge
 
