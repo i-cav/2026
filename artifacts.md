@@ -3,7 +3,7 @@ layout: page
 title: Artifact Evaluation
 ---
 
-**Self-Nominations**: We are looking for artifact reviewers!  If you are interested to serve on the CAV 2026 Artifact Evaluation Committee, please fill in [the form](https://forms.gle/N49xuaofDk1JtkBDA).
+**Self-Nominations**: We are looking for artifact reviewers!  If you are interested to serve on the CAV 2026 Artifact Evaluation Committee, please fill in [the form](https://forms.gle/N49xuaofDk1JtkBDA) by February 19.
 
 CAV allows authors of accepted papers to submit paper artifacts to strengthen confidence in validity of the claims in the papers, in reproducibility of the obtained results, and in usability of the developed tools by other researchers. **New in CAV 2026**: artifact submission is not required for papers of any category, it is, however, encouraged for papers of all categories, especially for (short) tool papers. Results of artifact evaluation do not affect paper decisions. We note that during submission of a paper, authors will be required to indicate whether they plan to submit an artifact in the case their paper is accepted.
 
