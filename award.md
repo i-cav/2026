@@ -8,7 +8,7 @@ Anyone can submit a nomination. The Award Committee can originate a nomination. 
 
 Nominations should include a proposed citation (up to 25 words), a succinct (100-250 words) description of the contribution(s), and a detailed statement to justify the nomination. The cited contribution(s) must have been made not more recently than five years ago and not over twenty five years ago. In addition, the contribution(s) should not yet have received recognition via a major award, such as the ACM Turing or Kanellakis Awards. The nominee may have received such an award for other contributions.
 
-For previous winners of the award, please see the [main CAV award page](https://i-cav.org/cav-award/). Nominations should be submitted by e-mail to this year's chair, Rupak Majumdar.
+For previous winners of the award, please see the [main CAV award page](https://i-cav.org/cav-award/). Nominations should be submitted by e-mail to this year's chair, Ranjit Jhala.
 
 #### IMPORTANT DATES
 
