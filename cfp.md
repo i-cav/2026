@@ -11,6 +11,8 @@ All deadlines are AoE (Anywhere on Earth)
 * Full papers due: January 28, 2026<br/>
 * Author Response Period: March 30 - April 1, 2026<br/>
 * Author Notification: April 17, 2026<br/>
+* Artifact Registration: April 22, 2026<br/>
+* [Artifact Evaluation](https://conferences.i-cav.org/2026/artifacts/): April 27 - May 29, 2026<br/>
 * Main Conference: July 26-29, 2026<br/>
  
 #### SUBMISSION SITE
@@ -80,6 +82,7 @@ Authors of accepted papers will be invited (but are not required) to submit a re
 
 *<u>New this year:</u>* Final acceptance (of papers in any category) is not conditional on successful artifact evaluation. Authors should indicate, however, at paper submission time whether they plan to submit an artifact for evaluation if their paper is accepted. Information on artifact intent will be shared with reviewers. If authors indicate their intent to submit an artifact but fail to do so after conditional acceptance, they will be asked to provide an explanation.
 
+[More information about Artifact Evaluation](https://conferences.i-cav.org/2026/artifacts/)
 
 #### REGULAR PAPERS
 
