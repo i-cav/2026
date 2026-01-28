@@ -20,9 +20,10 @@ author: International Conference on Computer Aided Verification
 ###############################################
 
 navbar-links:
-  Organization: "organization"
   Call for Papers: "cfp"
   Artifact Evaluation: "artifacts"
+  Keynotes: "keynote"
+  Organization: "organization"
   CAV Award: "award"
   Sponsors: "sponsors"
 
