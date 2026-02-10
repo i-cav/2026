@@ -3,7 +3,7 @@ layout: page
 title: Keynotes
 ---
 
-## Maria Christakis
+## July 27: Maria Christakis
 
 <img src="https://conferences.i-cav.org/2026/assets/img/maria-tuwien.jpg" alt="Maria" width="300">
 
@@ -22,7 +22,7 @@ then, she was awarded an ERC Starting grant, WWTF and FWF grants, a
 Google Research Scholar award, an Amazon Research award, and she was
 elected member of the Young Academy of the Austrian Academy of Sciences.
 
-## Guy Katz
+## July 29: Guy Katz
 
 <img src="https://conferences.i-cav.org/2026/assets/img/guy-katz.jpg" alt="Guy" width="300">
 
