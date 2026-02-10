@@ -48,6 +48,7 @@ Ankush Desai, Snowflake<br/>
 [Caterina Urban](http://www.di.ens.fr/~urban/), Inria & ENS \| PSL<br/>
 [Cesar Sanchez](https://software.imdea.org/~cesar/), IMDEA Software Institute<br/>
 [Cesare Tinelli](https://homepage.cs.uiowa.edu/~tinelli/), The University of Iowa<br/>
+[Chih-Duo Hong](https://chihduo.github.io/), National Chengchi University<br/>
 [Chih-Hong Cheng](https://www.chihhongcheng.info/), Carl von Ossietzky University of Oldenburg<br/>
 [Christel Baier](https://wwwtcs.inf.tu-dresden.de/~baier/), TU Dresden<br/>
 [Christian Schilling](https://www.christianschilling.net/), Aalborg University<br/>
