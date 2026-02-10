@@ -111,7 +111,6 @@ Pavithra Prabhakar, Kansas State University<br/>
 [Suguman Bansal](https://suguman.github.io/), Georgia Institute of Technology<br/>
 [Supratik Chakraborty](https://www.cse.iitb.ac.in/~supratik), IIT Bombay<br/>
 [Sylvie Putot](https://www.lix.polytechnique.fr/Labo/Sylvie.Putot/), Ecole Polytechnique<br/>
-[Tobias Meggendorfer](https://tobias.meggendorfer.de), Lancaster University Leipzig<br/>
 [Xujie Si](https://www.cs.toronto.edu/~six/), University of Toronto<br/>
 Yakir Vizel, The Technion<br/>
 [Yedi Zhang](https://zhangyedi.github.io/), National University of Singapore<br/>
