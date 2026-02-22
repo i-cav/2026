@@ -14,4 +14,3 @@ CAV 2026 is the 38th in a series dedicated to the advancement of the theory and 
 * Author Response Period: March 30 - April 1, 2026
 * Author Notification: April 17, 2026
 
-The CAV 2026 Artifact Evaluation Committee is looking for [artifact reviewers](artifacts).
