@@ -78,9 +78,9 @@ Papers in all four categories must be submitted by January 28, 2026 AoE, and sho
 
 Detailed instructions will be provided by mail to authors of accepted papers.
 
-Page Limits (Extended):
-- Regular papers: up to 20 pages (excluding bibliography and data availability statement)
-- Case-study, tool and application papers: up to 12 pages (excluding bibliography and data availability statement)
+Page Limits (extended, excluding bibliography and data availability statement):
+- Regular papers: up to 20 pages
+- Case-study, tool and application papers: up to 12 pages
 
 These limits include 2 extra pages to help incorporate reviewer feedback.
 
