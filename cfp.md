@@ -72,7 +72,7 @@ Paper submissions in CAV fall into one of the following four categories (see mor
 
 Papers can include a clearly marked appendix, however, the reviewers are not obliged to read the contents of these appendices. All page limits do not include references and appendices.
 
-Papers in all four categories must be submitted by January 28, 2026 AoE, and should be in LNCS format. Note [Springer's guidelines regarding AI Authorship]([https://anthonywlin.github.io](https://www.springer.com/gp/editorial-policies/artificial-intelligence--ai-/25428500)). Simultaneous submission to other conferences with proceedings or submission of material that has already been published elsewhere is not allowed.
+Papers in all four categories must be submitted by January 28, 2026 AoE, and should be in LNCS format. Note [Springer's guidelines regarding AI Authorship](https://www.springer.com/gp/editorial-policies/artificial-intelligence--ai-/25428500). Simultaneous submission to other conferences with proceedings or submission of material that has already been published elsewhere is not allowed.
 
 #### CAMERA-READY VERSIONS
 
