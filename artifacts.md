@@ -73,9 +73,7 @@ If you are not able to prepare the artifact as above, please contact AE chairs e
 
 ## README file structure
 
-**Details will appear here later**
-
-<!-- Describe which steps require external connectivity and why. -->
+We have prepared a template that can be downloaded [here](https://raw.githubusercontent.com/ondrik/cav26-artifact-evaluation/refs/heads/master/templates/README-cav26.txt).
 
 ## Examples of the structure of a .zip file with an artifact:
 

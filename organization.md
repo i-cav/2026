@@ -117,3 +117,82 @@ Yakir Vizel, The Technion<br/>
 [Yedi Zhang](https://zhangyedi.github.io/), National University of Singapore<br/>
 [Yong Kiam Tan](https://tanyongkiam.github.io/), Institute for Infocomm Research, A*STAR and Nanyang Technological University<br/>
 [Zhilin Wu](https://lcs.ios.ac.cn/~wuzl), Institute of Software, Chinese Academy of Sciences<br/>
+
+#### ARTIFACT EVALUATION COMMITTEE
+
+Mohammad Afzal, TCS Research Pune India and IIT Bombay<br/>
+Bruno Andreotti, UFMG<br/>
+[Sarvin Bahmani](https://scholar.google.com/citations?hl=en&user=kPYqpxMAAAAJ&view_op=list_works), Computer Science, University of Liverpool, UK<br/>
+Abhimannyu Basu, IIT Bombay<br/>
+[Anna Becchi](https://annabeks.github.io/), USI Lugano<br/>
+[Bishnu Bhusal](https://bishnubhusal.com.np/), University of Missouri, Columbia<br/>
+[Aurea Bílá](https://scholar.google.com/citations?user=V-EE-BsAAAAJ&hl=en&oi=ao), ETH Zurich<br/>
+Alberto Bombardelli, FBK<br/>
+[Julie Cailler](https://jcailler.github.io/), Loria, University of Lorraine, Nancy, France<br/>
+[Yanju Chen](https://chyanju.github.io/), University of California, San Diego<br/>
+[David Chocholatý](https://www.vut.cz/en/people/david-chocholaty-222101), Brno University of Technology<br/>
+SungWoo Choi, University of Florida<br/>
+[Kanak Das](https://kanakdas.me), University of California, Riverside<br/>
+[Paolo Di Biase](https://www.gssi.it/people/students/students-computer-science/item/25993-di-biase-paolo), Gran Sasso Science Institute (GSSI)<br/>
+[Arpita Dutta](https://arpitad10j.wixsite.com/arpitad10j), National University of Singapore<br/>
+[Neta Elad](https://www.cs.tau.ac.il/~netaelad/), Tel Aviv University<br/>
+[Zafer Esen](https://zafer-esen.github.io/), Uppsala University<br/>
+Ruijie Fang, UT Austin<br/>
+Eden Frenkel, Tel Aviv University<br/>
+[Maris Galesloot](https://marisgg.github.io/), Radboud University<br/>
+[Namratha Gangamreddypalli](https://namrathag.github.io/), Ecole Polytechnique<br/>
+[Rémi Garcia](https://www.remigarcia.xyz), University of Rennes 1<br/>
+Xinyu Ge, Aalborg University<br/>
+[Samuel Grahn](https://grahnen.se/), Uppsala University<br/>
+[Sachin Gupta](https://www.linkedin.com/in/guptasachin1/), eBay<br/>
+[Michal Hečko](https://www.fit.vut.cz/person/ihecko/), Brno University of Technology<br/>
+Lei Huang, University of Illinois Urbana-Champaign<br/>
+Mingyu Huang, Institute of Software, Chinese Academy of Sciences<br/>
+[Jayaraj Jayakumar](https://jyrj.me), University of California, Santa Cruz<br/>
+[Aditya Ranjan Jha](https://arj4web.github.io), National University of Singapore<br/>
+Aniruddha Joshi, University of California at Berkeley<br/>
+[Tooba Khan](https://khantooba.github.io), University of Southern California<br/>
+[Tomáš Kocourek](https://www.fit.vut.cz/person/ikocourek/.en), Brno University of Technology<br/>
+Yuntao Li, University of Florida<br/>
+Zihao Li, Institute of Software, Chinese Academy of Sciences, Beijing, China<br/>
+[Minghao Liu](https://minghao-liu.github.io), University of Oxford<br/>
+John Lu, University of Waterloo<br/>
+[Zhongkui Ma](https://zhongkuima.github.io/), The University of Queensland<br/>
+[Filip Macák](https://www.fit.vut.cz/person/imacak/.en), Brno University of Technology <br/>
+[Tomaz Mascarenhas](https://tomaz1502.github.io/index.html), UFMG<br/>
+[Maykel Mattar](https://www.linkedin.com/in/maykel-mattar/), CEA-LIST<br/>
+[Jingyi Mei](https://jingyimei98.github.io), Leiden University<br/>
+[Mingkai Miao](https://tracymiao111.github.io/), Hong Kong University of Science and Technology (Guangzhou)<br/>
+[Jan Gustav Michnia](https://moves.rwth-aachen.de/people/jan-michnia/), RWTH Aachen University<br/>
+[Sayan Mukherjee](https://mukherjee-sayan.github.io/), CNRS, Université de Rennes<br/>
+Titouan Ouillon, LIX, École Polytechnique, CNRS<br/>
+[Junkil Park](https://www.linkedin.com/in/junkil-park/), Waymo<br/>
+[Kittiphon Phalakarn](https://kphalakarn.github.io/), National Institute of Informatics, Japan<br/>
+Milad Rabizadeh, Michigan State University<br/>
+[Govind Rajanbabu](https://rdnivog.github.io/), Institute of Mathematical Sciences Chennai, India<br/>
+[Gaspard Reghem](https://www.lix.polytechnique.fr/~reghem/), LIX, Ecole Polytechnique<br/>
+[Florian Renkin](https://www.lre.epita.fr/~frenkin/), EPITA, LRE - Paris - France<br/>
+[Pedro Saccomani](https://psaccomani15.github.io/), UFMG<br/>
+[N. Ege Saraç](https://egesarac.github.io/), CISPA Helmholtz Center for Information Security<br/>
+[Abdelrahman Sayed](https://ab-sayed.github.io/), Université Gustave Eiffel<br/>
+[Jule Schmidt](https://informatik.rub.de/en/ac-personen/jule-schmidt/), Ruhr-University Bochum<br/>
+[Michal Šedý](https://vbn.aau.dk/en/persons/michal-%C5%A1ed%C3%BD/), Aalborg University<br/>
+Yogev Shalmon, Technion<br/>
+David Shriver, Unaffiliated<br/>
+[Vipin Singh](https://www.linkedin.com/in/vipin-singh-288041a6/), Google<br/>
+[Stephan Spengler](https://www.uu.se/en/contact-and-organisation/staff?query=N22-489), Uppsala University <br/>
+[Jack Stodart](https://jackstodart.info/), The Australian National University<br/>
+[Han Su](https://han-su.github.io/), National Institute of Informatics, Japan<br/>
+Yusen Su, University of Waterloo<br/>
+Huan Sun, Zhejiang University<br/>
+[Dylan Trenti](https://www.linkedin.com/in/dylan-trenti-5718141b6/), FBK, Italy + University of Udine, Italy<br/>
+Omkar Vijayakumar Tuppe, IIT Bombay<br/>
+Cole Vick, UT Austin<br/>
+Benjamin von Berg, Graz University of Technology<br/>
+[Ziteng Wang](https://ziteng.wang/), UT Austin<br/>
+[Cas Widdershoven](https://www.nottingham.ac.uk/computerscience/People/cas.widdershoven), University of Nottingham<br/>
+[Ben Wooding](https://woodingben.com), Vanderbilt University<br/>
+[Peng WU](https://lcs.ios.ac.cn/~wp), Institute of Software, Chinese Academy of Sciences<br/>
+[Ziyi Yang](https://ziyiyang.fun), Hong Kong University of Science and Technology(Guangzhou)<br/>
+[Kevin Zhou](https://kevinzhou96.github.io/), National Institute of Informatics, Japan<br/>
+[Meilin Zhu](https://tis.ios.ac.cn/people/meilin-zhu/), Institute of Software Chinese Academy of Sciences<br/>
