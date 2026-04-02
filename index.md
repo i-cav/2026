@@ -11,6 +11,6 @@ CAV 2026 is the 38th in a series dedicated to the advancement of the theory and 
 #### IMPORTANT DATES
 
 * Full papers due: January 28, 2026
-* Author Response Period: March 30 - April 1, 2026
+* Author Response Period: March 30 - April 2, 2026
 * Author Notification: April 17, 2026
 
