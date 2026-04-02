@@ -9,7 +9,7 @@ All deadlines are AoE (Anywhere on Earth)
 #### PAPER SUBMISSION
 
 * Full papers due: January 28, 2026<br/>
-* Author Response Period: March 30 - April 1, 2026<br/>
+* Author Response Period: March 30 - April 2, 2026<br/>
 * Author Notification: April 17, 2026<br/>
 * Artifact Registration: April 22, 2026<br/>
 * [Artifact Evaluation](https://conferences.i-cav.org/2026/artifacts/): April 27 - May 29, 2026<br/>
