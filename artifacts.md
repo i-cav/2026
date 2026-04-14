@@ -64,7 +64,7 @@ Your artifact .zip file must contain the following elements:
 
 * **image** or **package contents**:
   * either a VM or a Docker *image*
-  * or a *package* to be downloaded on some standard VM image with a DOI (in that case, the contents can be directly in the artifact .zip file).  The DOI of the VM image should then be on the web page of the artifact and also in the `README` file.
+  * or a *package* to be downloaded on some standard VM image with a DOI, such as the [CAV 2026 Artifact Evaluation VM](https://doi.org/10.5281/zenodo.19184838) (in that case, the contents can be directly in the artifact .zip file).  The DOI of the VM image should then be on the web page of the artifact and also in the `README` file.
 * `README` file: see [below](#readme-file-structure) for recommended structure
 * `LICENSE` file: the license needs to allow running/examining the artifact within the CAV 2026 Artifact Evaluation.
 
