@@ -13,7 +13,7 @@ _Conditionally accepted papers will be added once their acceptance is confirmed.
 
 * A mechanised, bidirectional type system for bit-width determination in SystemVerilog<font size="2"><br>Gabriel Desfrene (École normale supérieure – PSL); Quentin Corradi, Michalis Pardalos, John Wickerson (Imperial College London)</font>
 
-* A-IC3: Learning-Guided Adaptive Inductive Generalization for Hardware Model Checking<font size="2"><br>Xiaofeng Zhou, Guangyu Hu (Hong Kong University of Science and Technology); Hongce Zhang (Hong Kong University of Science and Technology (Guangzhou); Wei Zhang (Hong Kong University of Science and Technology)</font>
+* A-IC3: Learning-Guided Adaptive Inductive Generalization for Hardware Model Checking<font size="2"><br>Xiaofeng Zhou, Guangyu Hu (Hong Kong University of Science and Technology); Hongce Zhang (Hong Kong University of Science and Technology (Guangzhou)); Wei Zhang (Hong Kong University of Science and Technology)</font>
 
 * ATKVerifier: Adaptive Top-K Constraints for Tighter Verification of Semantic Segmentation Networks<font size="2"><br>Yuehao Liu, Cong Tian (ICTT and ISN Laboratory, Xidian University); Yansong Dong (Beijing Sunwise Information Technology Ltd); Liang Zhao, Chao Huang, Wensheng Wang (ICTT and ISN Laboratory, Xidian University)</font>
 
@@ -25,9 +25,9 @@ _Conditionally accepted papers will be added once their acceptance is confirmed.
 
 * Best-Effort Safety Control of Multi-Mode Systems<font size="2"><br>Massimo Benerecetti, Marco Faella, Fabio Mogavero (University of Naples, Italy)</font>
 
-* Complete Local Reasoning About Parameterized Programs Over Topologies<font size="2"><br>uotong Cheng, Azadeh Farzan (University of Toronto)</font>
+* Complete Local Reasoning About Parameterized Programs Over Topologies<font size="2"><br>Ruotong Cheng, Azadeh Farzan (University of Toronto)</font>
 
-* Compositional Verification of Timed Automata via Violation Assumptions<font size="2"><br>Mehran Moeini Jam (TU Wien, Austria - Sharif University of Technology, Iran); Hamed Kalantari (Sharif University of Technology, Iran); Ehsan Khamespanah (University of Tehran, Iran); Marjan Sirjani (Malardalen University, Sweden); Ali Movaghar (Sharif University of Technology, Iran)</font>
+* Compositional Verification of Timed Automata via Violation Assumptions<font size="2"><br>Mehran Moeini Jam (TU Wien, Austria; Sharif University of Technology, Iran); Hamed Kalantari (Sharif University of Technology, Iran); Ehsan Khamespanah (University of Tehran, Iran); Marjan Sirjani (Malardalen University, Sweden); Ali Movaghar (Sharif University of Technology, Iran)</font>
 
 * Consistency-Based Software Diagnosis: Accuracy, Scalability, and Limitations<font size="2"><br>Sarah Sallinger, Lukas Graussam, Georg Weissenbacher, Florian Zuleger (TU Wien); Alexey Ignatiev (Monash University)</font>
 
@@ -61,11 +61,11 @@ _Conditionally accepted papers will be added once their acceptance is confirmed.
 
 * Model Checking Matrix Product States Against Linear Chain Logic<font size="2"><br>Ming Xu, Yihao Chen (East China Normal University); Ji Guan (Chinese Academy of Sciences)</font>
 
-* Modular Reasoning about Object Relations<font size="2"><br>Micha Greutmann, Marco Eilers, Peter Müller (ETH Zurich)</font>
+* Modular Reasoning about Object Relations<font size="2"><br>Micha Greutmann, Marco Eilers, Peter Müller (ETH Zürich)</font>
 
 * On the Complexity of Checking Soundness of Natural Reductions<font size="2"><br>Constantin Enea (LIX - CNRS - Ecole Polytechnique); Azadeh Farzan (University of Toronto); Dominik Klumpp (LIX - CNRS - Ecole Polytechnique)</font>
 
-* On the Verification Problem of Remote Direct Memory Access programs<font size="2"><br>Parosh Aziz Abdulla, Mohamed Faouzi Atig (Uppsala University); R Govind (The Institute of Mathematical Sciences, Chennai); Stephan Spengler (Uppsala University)</font>
+* On the Verification Problem of Remote Direct Memory Access Programs<font size="2"><br>Parosh Aziz Abdulla, Mohamed Faouzi Atig (Uppsala University); R Govind (The Institute of Mathematical Sciences, Chennai); Stephan Spengler (Uppsala University)</font>
 
 * Over-approximation of weakly-hard constraints for control systems verification<font size="2"><br>Rieke de Maeyer, Holger Hermanns, Martina Maggio (Saarland University)</font>
 
@@ -161,8 +161,8 @@ _Conditionally accepted papers will be added once their acceptance is confirmed.
 
 * Ensuring Safety in Automotive Machine Learning Inference: From Pre-validated Static Kernels to Machine Learning Graph Compilation<font size="2"><br>Jelena Frtunikj, Alex Latz, Ajit Mistry, Matthew Propp, Vasu Singh, Suresh Talapaneni, Amanda Tang, Damien Zufferey (NVIDIA)</font>
 
-* Model Checking for Flexible Network Protocols<font size="2"><br>Andrew Johnson (Princeton University); Dennis Fetterly, Jon Zolla, Sean Song (Google, Inc)</font>
+* Model Checking for Flexible Network Protocols<font size="2"><br>Andrew Johnson (Princeton University); Dennis Fetterly, Jon Zolla, Sean Song (Google, Inc.)</font>
 
 * Show Me The Money: An Exercise in Proof-Driven Software Understanding<font size="2"><br>Joseph Tafese (University of Waterloo); Karthik Nukala (SRI); Hassen Saidi (Entalus); Natarajan Shankar (SRI); Arie Gurfinkel (University of Waterloo); Giuliano Losa (Stellar Development Foundation)</font>
 
-* The Simulator’s Blueprint: Automata Learning from Cybersecurity Logs<font size="2"><br>Tudor Braicu, Benjamin Ylvisaker, Nico Espinosa Dice, Yiding Chen, Yiyi Zhang (Cornell); Nate Foster (EPFL); Hossein Hojjat (Tehran Institute for Advanced Studies, Khatam University)</font>
+* The Simulator's Blueprint: Automata Learning from Cybersecurity Logs<font size="2"><br>Tudor Braicu, Benjamin Ylvisaker, Nico Espinosa Dice, Yiding Chen, Yiyi Zhang (Cornell University); Nate Foster (EPFL); Hossein Hojjat (Tehran Institute for Advanced Studies, Khatam University)</font>
