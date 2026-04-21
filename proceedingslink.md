@@ -1,0 +1,1 @@
+<a href="https://conferences.i-cav.org/2026/assets/data/Proceedings_copyright_cav26.docx" download>The prefilled copyright form is available here</a>
