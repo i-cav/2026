@@ -134,7 +134,6 @@ Alberto Bombardelli, FBK<br/>
 SungWoo Choi, University of Florida<br/>
 [Kanak Das](https://kanakdas.me), University of California, Riverside<br/>
 [Paolo Di Biase](https://www.gssi.it/people/students/students-computer-science/item/25993-di-biase-paolo), Gran Sasso Science Institute (GSSI)<br/>
-[Arpita Dutta](https://arpitad10j.wixsite.com/arpitad10j), National University of Singapore<br/>
 [Neta Elad](https://www.cs.tau.ac.il/~netaelad/), Tel Aviv University<br/>
 [Zafer Esen](https://zafer-esen.github.io/), Uppsala University<br/>
 Ruijie Fang, UT Austin<br/>
