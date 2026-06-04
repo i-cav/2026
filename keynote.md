@@ -47,17 +47,14 @@ then, she was awarded an ERC Starting grant, WWTF and FWF grants, a
 Google Research Scholar award, an Amazon Research award, and she was
 elected member of the Young Academy of the Austrian Academy of Sciences.
 
-## July 29: Guy Katz
+## Formally Explaining Neural Networks
+
+July 29: _[Guy Katz](https://www.katz-lab.com), Hebrew University of Jerusalem, Israel_
 
 <img src="https://conferences.i-cav.org/2026/assets/img/guy-katz.jpg" alt="Guy" width="300">
 
-_[Guy Katz](https://www.katz-lab.com), Hebrew University of Jerusalem, Israel_
+**Abstract:**
+Despite the extensive use of deep learning across critical domains, neural networks remain vulnerable "black boxes" whose heuristic explainability (XAI) frameworks lack rigorous guarantees. To establish stronger reliability for high-stakes stakeholders and regulators, this talk will focus on the framework of _Formal Explainability_, demonstrating how deep neural network (DNN) verification can be leveraged to compute provable, abduction-based explanations. We will address the primary bottleneck of scalability by exploring three cutting-edge methodologies designed to accelerate the extraction of minimal sufficient explanations: an incremental enumeration approach for multi-step reactive systems (such as autonomous robotic agents), an abstraction-refinement framework that dynamically tunes network size to eliminate spurious counterexamples faster, and a parallelizable simultaneous feature-freeing method that reformulates bound propagation into a multidimensional knapsack problem. Finally, we will highlight some upcoming research directions in trustworthy AI, including formal mechanistic interpretability for automated circuit discovery and the certified approximation of exact Shapley values.  
 
 **Bio:**
-Guy Katz is an Associate Professor at the Hebrew University of
-Jerusalem, Israel. He earned his Ph.D. from the Weizmann Institute of
-Science in 2015. His research bridges the gap between Formal Methods and
-Software Engineering, with a specific focus on applying formal
-verification to systems incorporating neural networks and Large Language
-Models (LLMs). Prof. Katz is a recipient of the Krill Prize (2021) and
-the CAV Award (2024), and his work is supported by an ERC grant.
+Guy Katz is a Professor of Computer Science at the Hebrew University of Jerusalem, Israel. He earned his Ph.D. from the Weizmann Institute of Science in 2015. His research bridges the gap between Formal Methods and Software Engineering, with a specific focus on applying formal verification to systems incorporating neural networks and Large Language Models (LLMs). Prof. Katz is a recipient of the Krill Prize (2021), the CAV Award (2024), and the ETAPS Rance Cleaveland Test-of-Time Tool Award (2026), and his work is supported by an ERC grant.
