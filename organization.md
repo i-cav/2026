@@ -39,7 +39,6 @@ Anastasia Mavridou, KBR Inc / NASA Ames Research Center<br/>
 [Andrea Turrini](https://tis.ios.ac.cn/people/andrea-turrini/), Institute of Software, Chinese Academy of Sciences<br/>
 Ankush Desai, Snowflake<br/>
 [Arie Gurfinkel](https://ece.uwaterloo.ca/~agurfink), University of Waterloo<br/>
-[Arjun Radhakrishna](https://www.microsoft.com/en-us/research/people/arradha/), Microsoft<br/>
 [Azalea Raad](https://www.soundandcomplete.org/), Imperial College London<br/>
 [Bai Xue](https://lcs.ios.ac.cn/~xuebai/), Institute of Software, Chinese Academy of Sciences<br/>
 [Benjamin Lucien Kaminski](https://quave.cs.uni-saarland.de/benjamin-kaminski), Saarland University and University College London<br/>
