@@ -12,7 +12,7 @@ FLoC Keynote 09:00 - 10:00
 
 Coffee Break 10:00 - 10:30
 
-*Verification of Parallel, Concurrent, and Distributed Systems*
+*Verification of Parallel, Concurrent, and Distributed Systems* (session chair: Borzoo Bonakdarpour)
 
     10:30-10:45 On the Complexity of Checking Soundness of Natural Reductions
     10:45-11:00 Deadlock Verification via Ordering-Constrained Mutex Modeling
@@ -27,7 +27,7 @@ Coffee Break 10:00 - 10:30
 
 Lunch 12:30 - 14:00
 
-*Synthesis*
+*Synthesis* (session chair: Orna Kupferman)
 
     14:00-14:15 Randomise Alone, Reach Together
     14:15-14:30 Decoupled Planning for Multiple Omega-Regular Objectives
@@ -39,7 +39,7 @@ Lunch 12:30 - 14:00
 
 Coffee Break 15:30 - 16:00
 
-*Hardware Verification*
+*Hardware Verification* (session chair: Supratik Chakraborty)
 
     16:00-16:15 A-IC3: Learning-Guided Adaptive Inductive Generalization for Hardware Model Checking
     16:15-16:30 A Multi-Width Parametric Equivalence Solver
@@ -53,14 +53,14 @@ Invited Talk (Maria Christakis) 09:00 - 10:00
 
 Coffee Break 10:00 - 10:30
 
-*Security, Privacy and Hyperproperties*
+*Security, Privacy and Hyperproperties* (session chair: Cesare Tinelli)
 
     10:30-10:45 Differentially Private Runtime Monitoring
     10:45-11:00 HyperLasso: Bounded Model Checking of ∀+∃+-Liveness Hyperproperties
     11:00-11:10 The Simulator’s Blueprint: Automata Learning from Cybersecurity Logs
     11:10-11:20 HyperQB 2.0: A Bounded Model Checker for Hyperproperties
 
-*SMT, SAT & Decision Procedures*
+*SMT, SAT & Decision Procedures* (session chair: Cesare Tinelli)
 
     11:20-11:35 Improving Stability of SMT Solvers via Context-Driven Normalization
     11:35-11:50 Satisfiability Modulo Extensional Constant Arrays
@@ -70,7 +70,7 @@ Coffee Break 10:00 - 10:30
 
 Lunch 12:30 - 14:00
 
-*Deductive Verification & Certified Verification*
+*Deductive Verification & Certified Verification* (session chair: Marieke Huisman)
 
     14:00-14:15 Modular Reasoning about Object Relations
     14:15-14:30 Formally Verified Linear-Time Invertible Lexing
@@ -82,7 +82,7 @@ Lunch 12:30 - 14:00
 
 Coffee Break 15:30 - 16:00
 
-*Automata*
+*Automata* (session chair: Ondřej Lengál)
 
     16:00-16:15 An L# Based Algorithm for Active Learning of Minimal Separating Automata
     16:15-16:30 Upper Bound for the Determinization of Emerson-Lei Automata: A One-Fin Approach
@@ -101,7 +101,7 @@ FLoC Keynote 09:00 - 10:00
 
 Coffee Break 10:00 - 10:30
 
-*Machine Learning, AI and Verification*
+*Machine Learning, AI and Verification* (session chair: TBD)
 
     10:30-10:45 VNN-LIB 2.0: Rigorous Foundations for Neural Network Verification
     10:45-11:00 QAV-FT: Quadratic Approximation-based Neural Network Verification via Fourier Series and Taylor Truncation
@@ -116,7 +116,7 @@ Lunch 12:25 - 13:45
 
 CAV Award (Invited Talk) 13:45 - 14:45
 
-*Liveness/Termination*
+*Liveness/Termination* (session chair: Orna Grumberg)
 
     14:50-15:05 Liveness Proofs for Hardware Model Checking
     15:05-15:20 Transition Invariants Revisited: Termination Witnesses and Their Validation
@@ -124,7 +124,7 @@ CAV Award (Invited Talk) 13:45 - 14:45
 
 Coffee Break 15:30 - 16:00
 
-*Program Analysis Session*
+*Program Analysis Session* (session chair: Youcheng Sun)
 
     16:00-16:15 Sound and Precise Symbolic Automata Model for Stateful Software Systems
     16:15-16:30 Automated Amortised Analysis of Skew Heaps and Leftist Heaps
@@ -142,14 +142,14 @@ Invited Talk (Guy Katz) 09:00 - 10:00
 
 Coffee Break 10:00 - 10:30
 
-*Software: Tools, Verification and Synthesis*
+*Software: Tools, Verification and Synthesis* (session chair: Alessandro Cimatti)
 
     10:30-10:45 Consistency-Based Software Diagnosis: Accuracy, Scalability, and Limitations
     10:45-10:55 Show Me The Money: An Exercise in Proof-Driven Software Understanding
     10:55-11:05 SvLibChecker: A Light-Weight Tool for Software Model Checking
     11:05-11:15 PyCHC: a Framework for Certified Horn Solving and CHC-based Design
 
-*Quantum*
+*Quantum* (session chair: Alessandro Cimatti)
 
     11:15-11:30 How Many Circuit Identities Are Needed to Generate All Others?
     11:30-11:45 A Practical Specification Language for Automatic Quantum Program Verification
@@ -160,7 +160,7 @@ Coffee Break 10:00 - 10:30
 
 Lunch 12:35 - 14:00
 
-*Hybrids, Controls and Probabilistic Systems*
+*Hybrids, Controls and Probabilistic Systems* (session chair: Pavithra Prabhakar)
 
     14:00-14:15 Over-approximation of weakly-hard constraints for control systems verification
     14:15-14:30 Spatiotemporal Robustness of Temporal Logic Tasks using Multi-Objective Reasoning
