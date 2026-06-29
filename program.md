@@ -101,7 +101,7 @@ FLoC Keynote 09:00 - 10:00
 
 Coffee Break 10:00 - 10:30
 
-*Machine Learning, AI and Verification* (session chair: TBD)
+*Machine Learning, AI and Verification* (session chair: Guy Katz)
 
     10:30-10:45 VNN-LIB 2.0: Rigorous Foundations for Neural Network Verification
     10:45-11:00 QAV-FT: Quadratic Approximation-based Neural Network Verification via Fourier Series and Taylor Truncation
