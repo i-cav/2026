@@ -15,8 +15,6 @@ CAV 2026 is the 38th in a series dedicated to the advancement of the theory and 
 * Author Notification: April 17, 2026
 
 #### PROCEEDINGS ACCESS
-[Part I](https://link.springer.com/book/9783032325181)
-
-[Part II](https://link.springer.com/book/9783032325259)
-
+[Part I](https://link.springer.com/book/9783032325181)<br>
+[Part II](https://link.springer.com/book/9783032325259)<br>
 [Part III](https://link.springer.com/book/9783032325365)
