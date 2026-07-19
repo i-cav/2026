@@ -14,3 +14,9 @@ CAV 2026 is the 38th in a series dedicated to the advancement of the theory and 
 * Author Response Period: March 30 - April 2, 2026
 * Author Notification: April 17, 2026
 
+#### PROCEEDINGS ACCESS
+[Part I](https://link.springer.com/book/9783032325181)
+
+[Part II](https://link.springer.com/book/9783032325259)
+
+[Part III](https://link.springer.com/book/9783032325365)
